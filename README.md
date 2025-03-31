@@ -2,7 +2,7 @@
 
 This repository contains the firmware for a line follower robot project using the STM32F103 microcontroller.
 
-![Line Follower Robot](linefollower.jpg)
+<img src="linefollower.png" alt="Line Follower Robot">
 
 ## Features
 
